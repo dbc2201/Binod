@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Binod:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Binod_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Binod.jar">
+        <element id="module-output" name="Binod" />
+      </element>
+    </root>
+  </artifact>
+</component>
