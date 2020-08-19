@@ -6,8 +6,13 @@
  * */
 
 public class Binod {
+    private static void seeTheComment(String comment) {
+
+    }
+
     public static void moreAboutBinod() {
 
+        seeTheComment()
     }
 
     public static void main(String[] args) {
